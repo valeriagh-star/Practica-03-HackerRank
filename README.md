@@ -4,8 +4,11 @@
  
 El objetivo de esta práctica fue el poder repasar y practicar algunos temas que vendrían en el primer examen parcial, nuevamente con la realización de ejercicios en la plataforma de HackerRank.
 
-## Descripción
+## ✍️ Descripción
 
+Esta práctica consistió en la realización de 7 ejercicios en HackerRank con la finalidad de repasar algunos temas vistos en clase para el examen. Se pusieron en practica temas como la Herencia en Java, el Method Overriding donde también se revisó el concepto de polimorfismo y el uso de la palabra clave **super** para referenciar la clase padre, ejercicios de bases numéricas y el uso de la estructura de datos **array**.
+
+En HackerRank venían las intstrucciones a seguir para cada ejercicio, en los cuales únicamente se tuvo que complementar el código que la plataforma ya nos daba.
 
 ## ⚙️ Tecnologías utilizadas
 
