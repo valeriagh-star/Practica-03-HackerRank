@@ -26,15 +26,17 @@ El código fuente de los 7 problemas está organizado por paquetes y se puede re
 
 | Problema de HackerRank | Ruta del Archivo .java | Estado |
 | :--- | :--- | :--- |
-| **Bases Numericas** | [src/basesNumericas/Solution.java](https://github.com/valeriagh-star/Practica-03-HackerRank/tree/main/src/basesNumericas) | Accepted |
-| **Java 1D Array** | [src/java1DArray/Solution.java]() | Accepted |
-| **Java 1D Array (Part 2)** | [src/java1DArrayParte2/Solution.java]() | Accepted |
-| **Java Method Overriding** | [src/javaMethodOverriding/Sports.java]() | Accepted |
-| **Java Method Overriding 2 (Super Keyword)** | [src/javaMethodOverriding2/BiCycle.java]() | Accepted |
-| **Java Inheritance I** | [src/javaInheritanceI/Animal.java]() | Accepted |
-| **Java Inheritance II** | [src/javaInheritanceII/Arithmetic.java]() | Accepted |
+| **Bases Numericas** | [src/basesNumericas/Result.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/basesNumericas/Result.java) | Accepted |
+| **Bases Numericas** | [src/basesNumericas/Solution.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/basesNumericas/Solution.java) | Accepted |
+| **Java 1D Array** | [src/java1DArray/Solution.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/java1DArray/Solution.java) | Accepted |
+| **Java 1D Array (Part 2)** | [src/java1DArrayParte2/Solution.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/java1DArrayParte2/Solution.java) | Accepted |
+| **Java Method Overriding** | [src/javaMethodOverriding/Sports.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/javaMethodOverriding/Sports.java) | Accepted |
+| **Java Method Overriding 2 (Super Keyword)** | [src/javaMethodOverriding2/BiCycle.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/javaMethodOverriding2/BiCycle.java) | Accepted |
+| **Java Inheritance I** | [src/javaInheritanceI/Animal.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/javaInheritanceI/Animal.java) | Accepted |
+| **Java Inheritance II** | [src/javaInheritanceII/Arithmetic.java](https://github.com/valeriagh-star/Practica-03-HackerRank/blob/main/src/javaInheritanceII/Arithmetic.java) | Accepted |
 
 ## ▶️ Instrucciones de ejecución
+
 
 Dado que esta práctica consiste en soluciones enviadas a una plataforma en línea, la ejecución es directa:
 1.  **Clonar el repositorio.**
