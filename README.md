@@ -1,8 +1,7 @@
 # Practica 03  (HackerRank)
 
+## ✅ Objetivo 
 <div align="justify">
-## ✅ Objetivo
- 
 El objetivo de esta práctica fue el poder repasar y practicar algunos temas que vendrían en el primer examen parcial, nuevamente con la realización de ejercicios en la plataforma de HackerRank.
 
 ## ✍️ Descripción
