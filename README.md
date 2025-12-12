@@ -13,7 +13,7 @@ El objetivo de esta práctica fue el poder repasar y practicar algunos temas que
 * **Plataforma de Evaluación:** HackerRank.
 
 ## 📸 Evidencias (Capturas de pantalla)
-[**Nota:** Estas imágenes fueron subidas a la raíz del repositorio, así como también la carpeta src con los 7 ejercicios de Hacker Rank.]
+[**Nota:** Esta imagen fue subida a la raíz del repositorio, así como también la carpeta src con los 7 ejercicios de Hacker Rank.]
 
 ### Resultados de Submissions
 
