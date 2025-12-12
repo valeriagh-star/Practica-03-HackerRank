@@ -20,20 +20,19 @@ El objetivo de esta práctica fue el poder repasar y practicar algunos temas que
 * **Envíos Aceptados (Java Inheritance I, Java Inheritance II,Bases Numericas, etc.):**
   ![Lista de envíos aceptados](practica03HackerRank.png) 
 
-  
 ## 📁 Soluciones (Archivos .java)
 
-El código fuente de los 16 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-01-HackerRank/tree/main/src/).
+El código fuente de los 7 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-01-HackerRank/tree/main/src/).
 
 | Problema de HackerRank | Ruta del Archivo .java | Estado |
 | :--- | :--- | :--- |
-| **Welcome to Java!** | [src/WelcomeToJava/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/WelcomeToJava/Solution.java) | Accepted |
-| **Java Stdin and Stdout I** | [src/javaStdinAndStdoutI/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutI/Solution.java) | Accepted |
-| **Java Stdin and Stdout II** | [src/javaStdinAndStdoutII/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutII/Solution.java) | Accepted |
-| **Welcome to Java!** | [src/WelcomeToJava/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/WelcomeToJava/Solution.java) | Accepted |
-| **Java Stdin and Stdout I** | [src/javaStdinAndStdoutI/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutI/Solution.java) | Accepted |
-| **Java Stdin and Stdout II** | [src/javaStdinAndStdoutII/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/javaStdinAndStdoutII/Solution.java) | Accepted |
-| **Welcome to Java!** | [src/WelcomeToJava/Solution.java](https://github.com/valeriagh-star/Practica-01-HackerRank/blob/main/src/WelcomeToJava/Solution.java) | Accepted |
+| **Bases Numericas** | [src/basesNumericas/Solution.java]() | Accepted |
+| **Java 1D Array** | [src/java1DArray/Solution.java]() | Accepted |
+| **Java 1D Array (Part 2)** | [src/java1DArrayParte2/Solution.java]() | Accepted |
+| **Java Method Overriding** | [src/javaMethodOverriding/Sports.java]() | Accepted |
+| **Java Method Overriding 2 (Super Keyword)** | [src/javaMethodOverriding2/BiCycle.java]() | Accepted |
+| **Java Inheritance I** | [src/javaInheritanceI/Animal.java]() | Accepted |
+| **Java Inheritance II** | [src/javaInheritanceII/Arithmetic.java]() | Accepted |
 
 ## ▶️ Instrucciones de ejecución
 
