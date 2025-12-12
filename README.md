@@ -26,7 +26,7 @@ El código fuente de los 7 problemas está organizado por paquetes y se puede re
 
 | Problema de HackerRank | Ruta del Archivo .java | Estado |
 | :--- | :--- | :--- |
-| **Bases Numericas** | [src/basesNumericas/Solution.java]() | Accepted |
+| **Bases Numericas** | [src/basesNumericas/Solution.java](https://github.com/valeriagh-star/Practica-03-HackerRank/tree/main/src/basesNumericas) | Accepted |
 | **Java 1D Array** | [src/java1DArray/Solution.java]() | Accepted |
 | **Java 1D Array (Part 2)** | [src/java1DArrayParte2/Solution.java]() | Accepted |
 | **Java Method Overriding** | [src/javaMethodOverriding/Sports.java]() | Accepted |
