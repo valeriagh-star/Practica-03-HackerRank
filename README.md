@@ -22,7 +22,7 @@ El objetivo de esta práctica fue el poder repasar y practicar algunos temas que
 
 ## 📁 Soluciones (Archivos .java)
 
-El código fuente de los 7 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-01-HackerRank/tree/main/src/).
+El código fuente de los 7 problemas está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-03-HackerRank/tree/main/src).
 
 | Problema de HackerRank | Ruta del Archivo .java | Estado |
 | :--- | :--- | :--- |
