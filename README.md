@@ -37,9 +37,7 @@ El código fuente de los 7 problemas está organizado por paquetes y se puede re
 
 ## ▶️ Instrucciones de ejecución
 
-
 Dado que esta práctica consiste en soluciones enviadas a una plataforma en línea, la ejecución es directa:
 1.  **Clonar el repositorio.**
 2.  **Revisar el Código:** El código fuente de cada problema (`.java`) está incluido. Puedes abrir y revisar las soluciones en cualquier IDE de Java (como IntelliJ o Eclipse).
 3.  **Ejecutar (Opcional):** Para probar una solución localmente, copia la clase principal (`class Solution`) a tu IDE y ejecuta el método `main()`, proporcionando la entrada de datos por la consola.
-4.  
