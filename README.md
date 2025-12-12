@@ -1,3 +1,4 @@
+<div align="justify">
 # Practica 03  (HackerRank)
 
 ## ✅ Objetivo
@@ -44,3 +45,4 @@ Dado que esta práctica consiste en soluciones enviadas a una plataforma en lín
 1.  **Clonar el repositorio.**
 2.  **Revisar el Código:** El código fuente de cada problema (`.java`) está incluido. Puedes abrir y revisar las soluciones en cualquier IDE de Java (como IntelliJ o Eclipse).
 3.  **Ejecutar (Opcional):** Para probar una solución localmente, copia la clase principal (`class Solution`) a tu IDE y ejecuta el método `main()`, proporcionando la entrada de datos por la consola.
+</div>
